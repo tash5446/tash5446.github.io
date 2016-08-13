@@ -1,0 +1,11 @@
+body {
+  background: green;
+  color: orange;
+  font-family: 'Comic Sans MS';
+  font-size: 4em;
+  padding: 20px;
+}
+
+img {
+  float: right;
+}
